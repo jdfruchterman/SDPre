@@ -17,3 +17,6 @@ public class ForgetfulMachine {
     keyboard.next();
   }
 }
+
+// the second question blows up when i type "paris"
+// the third question blows up when i type "john"
